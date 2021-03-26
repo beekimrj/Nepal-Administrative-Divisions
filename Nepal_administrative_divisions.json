@@ -1,0 +1,1480 @@
+{
+  "Nepal": {
+    "Zone": {
+      "Bagmati": {
+        "District": [
+          "Bhaktapur",
+          "Dhading",
+          "Kathmandu",
+          "Kavrepalanchok",
+          "Lalitpur",
+          "Nuwakot",
+          "Rasuwa",
+          "Sindhupalchok"
+        ],
+        "City": [
+          "Banepa",
+          "Bhaktapur",
+          "Kathmandu Metro 10 - New Baneshwor Area",
+          "Kathmandu Metro 11 - Maitighar Area",
+          "Kathmandu Metro 12 - Teku Area",
+          "Kathmandu Metro 13 - Kalimati Area",
+          "Kathmandu Metro 14 - Kuleshwor Area",
+          "Kathmandu Metro 15 - Swayambhu Area",
+          "Kathmandu Metro 16 - Nayabazar Area",
+          "Kathmandu Metro 17 - Chhetrapati Area",
+          "Kathmandu Metro 18 - Raktakali Area",
+          "Kathmandu Metro 19 - Hanumandhoka Area",
+          "Kathmandu Metro 1 - Naxal Area",
+          "Kathmandu Metro 20 - Marutol Area",
+          "Kathmandu Metro 21 - Lagantole Area",
+          "Kathmandu Metro 22 - Newroad Area",
+          "Kathmandu Metro 23 - Basantapur Area",
+          "Kathmandu Metro 24 - Indrachowk Area",
+          "Kathmandu Metro 25 - Ason Area",
+          "Kathmandu Metro 26 - Samakhusi Area",
+          "Kathmandu Metro 26 - Thamel Area",
+          "Kathmandu Metro 27 - Bhotahiti Area",
+          "Kathmandu Metro 28 - Bagbazar Area",
+          "Kathmandu Metro 28 - Kamaladi Area",
+          "Kathmandu Metro 29 - Anamnagar Area",
+          "Kathmandu Metro 29 - Putalisadak Area",
+          "Kathmandu Metro 2 - Lazimpat Area",
+          "Kathmandu Metro 30 - Maitidevi  Area",
+          "Kathmandu Metro 31 - Min Bhawan Area",
+          "Kathmandu Metro 32 - Koteshwor Area",
+          "Kathmandu Metro 32 - Tinkune Area",
+          "Kathmandu Metro 3 - Baluwatar Area",
+          "Kathmandu Metro 3 - Maharajgunj Area",
+          "Kathmandu Metro 4 - Bishalnagar Area",
+          "Kathmandu Metro 5 - Tangal Area",
+          "Kathmandu Metro 7 - Chabahil Area",
+          "Kathmandu Metro 8 - Gaushala Area",
+          "Kathmandu Metro 9 - Sinamangal Area",
+          "Kathmandu Outside Ring Road",
+          "Lalitpur Inside Ring Road",
+          "Lalitpur Outside Ring Road"
+        ]
+      },
+      "Bheri": {
+        "District": [
+          "Banke",
+          "Bardiya",
+          "Dailekh",
+          "Jajarkot",
+          "Surkhet"
+        ],
+        "City": [
+          "Birendranagar - Surkhet",
+          "Nepalgunj"
+        ]
+      },
+      "Dhawalagiri": {
+        "District": [
+          "Baglung",
+          "Mustang",
+          "Myagdi",
+          "Parbat"
+        ],
+        "City": []
+      },
+      "Gandaki": {
+        "District": [
+          "Gorkha",
+          "Kaski",
+          "Lamjung",
+          "Manang",
+          "Syangja",
+          "Tanahu"
+        ],
+        "City": [
+          "Damauli",
+          "Lekhnath",
+          "Pokhara"
+        ]
+      },
+      "Janakpur": {
+        "District": [
+          "Dhanusa",
+          "Dholkha",
+          "Mahottari",
+          "Ramechhap",
+          "Sarlahi",
+          "Sindhuli"
+        ],
+        "City": [
+          "Bardibas",
+          "Chhireswarnath",
+          "Jaleswor",
+          "Janakpur"
+        ]
+      },
+      "Karnali": {
+        "District": [
+          "Dolpa",
+          "Humla",
+          "Jumla",
+          "Kalikot",
+          "Mugu"
+        ],
+        "City": []
+      },
+      "Koshi": {
+        "District": [
+          "Bhojpur",
+          "Dhankuta",
+          "Morang",
+          "Sankhuwasabha",
+          "Sunsari",
+          "Terhathum"
+        ],
+        "City": [
+          "Biratnagar",
+          "Dharan",
+          "Itahari",
+          "Urlabari"
+        ]
+      },
+      "Lumbini": {
+        "District": [
+          "Arghakhanchi",
+          "Gulmi",
+          "Kapilvastu",
+          "Parasi",
+          "Nawalpur",
+          "Palpa",
+          "Rupandehi"
+        ],
+        "City": [
+          "Butwal",
+          "Devdaha",
+          "Gaidakot",
+          "Kapilvastu",
+          "Kawasoti",
+          "Lumbini Sanskriti",
+          "Ramgram",
+          "Sainamaina",
+          "Sidarthanagar - Bhairahawa",
+          "Sunwal",
+          "Tilotama"
+        ]
+      },
+      "Mahakali": {
+        "District": [
+          "Baitadi",
+          "Dadeldhura",
+          "Darchula",
+          "Kanchanpur"
+        ],
+        "City": [
+          "Bhimdatta-Mahendranagar"
+        ]
+      },
+      "Mechi": {
+        "District": [
+          "Ilam",
+          "Jhapa",
+          "Panchthar",
+          "Taplejung"
+        ],
+        "City": [
+          "Bhadrapur",
+          "Birtamod",
+          "Chandragadi",
+          "Damak",
+          "Kakarbhitta"
+        ]
+      },
+      "Narayani": {
+        "District": [
+          "Bara",
+          "Chitwan",
+          "Makwanpur",
+          "Parsa",
+          "Rautahat"
+        ],
+        "City": [
+          "Bharatpur",
+          "Birgunj",
+          "Hetauda",
+          "Jeetpur - Simara",
+          "Kalaiya",
+          "Khairehani",
+          "Narayanghat",
+          "Rapti",
+          "Ratnanagar"
+        ]
+      },
+      "Rapti": {
+        "District": [
+          "Dang",
+          "Pyuthan",
+          "Rolpa",
+          "Eastern Rukum",
+          "Western Rukum",
+          "Salyan"
+        ],
+        "City": [
+          "Dang - Ghorahi",
+          "Dang - Tulsipur"
+        ]
+      },
+      "Sagarmatha": {
+        "District": [
+          "Khotang",
+          "Okhaldhunga",
+          "Saptari",
+          "Siraha",
+          "Solukhumbu",
+          "Udayapur"
+        ],
+        "City": [
+          "Lahan"
+        ]
+      },
+      "Seti": {
+        "District": [
+          "Achham",
+          "Bajhang",
+          "Bajura",
+          "Doti",
+          "Kailali"
+        ],
+        "City": [
+          "Dhangadhi"
+        ]
+      }
+    },
+    "Province": {
+      "Province No. 1": {
+        "Name": "Province No. 1",
+        "Nepali": "प्रदेश नम्बर 1",
+        "Capital": "Biratnagar",
+        "Area (km2)": "25,905",
+        "Population (2011)": "4,534,943",
+        "District": [
+          [
+            "Bhojpur"
+          ],
+          [
+            "Dhankuta"
+          ],
+          [
+            "Ilam"
+          ],
+          [
+            "Jhapa"
+          ],
+          [
+            "Khotang"
+          ],
+          [
+            "Morang"
+          ],
+          [
+            "Okhaldhunga"
+          ],
+          [
+            "Panchthar"
+          ],
+          [
+            "Sankhuwasabha"
+          ],
+          [
+            "Solukhumbu"
+          ],
+          [
+            "Sunsari"
+          ],
+          [
+            "Taplejung"
+          ],
+          [
+            "Terhathum"
+          ],
+          [
+            "Udayapur"
+          ]
+        ]
+      },
+      "Province No. 2": {
+        "Name": "Province No. 2",
+        "Nepali": "प्रदेश नम्बर १",
+        "Capital": "Janakpur",
+        "Area (km2)": "9,661",
+        "Population (2011)": "5,404,145",
+        "District": [
+          [
+            "Saptari"
+          ],
+          [
+            "Parsa"
+          ],
+          [
+            "Sarlahi"
+          ],
+          [
+            "Bara"
+          ],
+          [
+            "Siraha"
+          ],
+          [
+            "Dhanusha"
+          ],
+          [
+            "Rautahat"
+          ],
+          [
+            "Mahottari"
+          ]
+        ]
+      },
+      "Province No. 3": {
+        "Name": "Province No. 3",
+        "Nepali": "प्रदेश नम्बर ३",
+        "Capital": "Hetauda",
+        "Area (km2)": "20,300",
+        "Population (2011)": "5,529,452",
+        "District": [
+          [
+            "Sindhuli"
+          ],
+          [
+            "Ramechhap"
+          ],
+          [
+            "Dolakha"
+          ],
+          [
+            "Bhaktapur"
+          ],
+          [
+            "Dhading"
+          ],
+          [
+            "Kathmandu"
+          ],
+          [
+            "Kavrepalanchok"
+          ],
+          [
+            "Lalitpur"
+          ],
+          [
+            "Nuwakot"
+          ],
+          [
+            "Rasuwa"
+          ],
+          [
+            "Sindhupalchok"
+          ],
+          [
+            "Chitwan"
+          ],
+          [
+            "Makwanpur"
+          ]
+        ]
+      },
+      "Province No. 4": {
+        "Name": "Gandaki",
+        "Nepali": "प्रदेश नम्बर ४",
+        "Capital": "Pokhara",
+        "Area (km2)": "21,504",
+        "Population (2011)": "2,413,907",
+        "District": [
+          [
+            "Baglung"
+          ],
+          [
+            "Gorkha"
+          ],
+          [
+            "Kaski"
+          ],
+          [
+            "Lamjung"
+          ],
+          [
+            "Manang"
+          ],
+          [
+            "Mustang"
+          ],
+          [
+            "Myagdi"
+          ],
+          [
+            "Nawalpur"
+          ],
+          [
+            "Parbat"
+          ],
+          [
+            "Syangja"
+          ],
+          [
+            "Tanahun"
+          ]
+        ]
+      },
+      "Province No. 5": {
+        "Name": "Province No. 5",
+        "Nepali": "प्रदेश नम्बर ५",
+        "Capital": "Butwal",
+        "Area (km2)": "22,288",
+        "Population (2011)": "4,891,025",
+        "District": [
+          [
+            "Kapilvastu"
+          ],
+          [
+            "Parasi"
+          ],
+          [
+            "Rupandehi"
+          ],
+          [
+            "Arghakhanchi"
+          ],
+          [
+            "Gulmi"
+          ],
+          [
+            "Palpa"
+          ],
+          [
+            "Dang"
+          ],
+          [
+            "Pyuthan"
+          ],
+          [
+            "Rolpa"
+          ],
+          [
+            "Eastern Rukum"
+          ],
+          [
+            "Banke"
+          ],
+          [
+            "Bardiya"
+          ]
+        ]
+      },
+      "Province No. 6": {
+        "Name": "Karnali",
+        "Nepali": "प्रदेश नम्बर ६",
+        "Capital": "Birendranagar",
+        "Area (km2)": "27,984",
+        "Population (2011)": "1,168,515",
+        "District": [
+          [
+            "Western Rukum"
+          ],
+          [
+            "Salyan"
+          ],
+          [
+            "Dolpa"
+          ],
+          [
+            "Humla"
+          ],
+          [
+            "Jumla"
+          ],
+          [
+            "Kalikot"
+          ],
+          [
+            "Mugu"
+          ],
+          [
+            "Surkhet"
+          ],
+          [
+            "Dailekh"
+          ],
+          [
+            "Jajarkot"
+          ]
+        ]
+      },
+      "Province No. 7": {
+        "Name": "SudurPaschim",
+        "Nepali": "प्रदेश नम्बर ७",
+        "Capital": "Godawari",
+        "Area (km2)": "19,539",
+        "Population (2011)": "2,552,517",
+        "District": [
+          [
+            "Kailali"
+          ],
+          [
+            "Achham"
+          ],
+          [
+            "Doti"
+          ],
+          [
+            "Bajhang"
+          ],
+          [
+            "Bajura"
+          ],
+          [
+            "Kanchanpur"
+          ],
+          [
+            "Dadeldhura"
+          ],
+          [
+            "Baitadi"
+          ],
+          [
+            "Darchula"
+          ]
+        ]
+      }
+    },
+    "District": {
+      "Bhojpur": {
+        "Name": "Bhojpur",
+        "Nepali": "भोजपुर जिल्ला",
+        "Headquarters": "Bhojpur",
+        "Population (2011)": "182,459",
+        "Area(km2)": "1,507",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Dhankuta": {
+        "Name": "Dhankuta",
+        "Nepali": "धनकुटा जिल्ला",
+        "Headquarters": "Dhankuta",
+        "Population (2011)": "163,412",
+        "Area(km2)": "0,892",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Ilam": {
+        "Name": "Ilam",
+        "Nepali": "इलाम जिल्ला",
+        "Headquarters": "Ilam",
+        "Population (2011)": "290,254",
+        "Area(km2)": "1,703",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Jhapa": {
+        "Name": "Jhapa",
+        "Nepali": "झापा जिल्ला",
+        "Headquarters": "Bhadrapur",
+        "Population (2011)": "812,650",
+        "Area(km2)": "1,606",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Khotang": {
+        "Name": "Khotang",
+        "Nepali": "खोटाँग जिल्ला",
+        "Headquarters": "Diktel",
+        "Population (2011)": "206,312",
+        "Area(km2)": "1,591",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Morang": {
+        "Name": "Morang",
+        "Nepali": "मोरंग जिल्ला",
+        "Headquarters": "Biratnagar",
+        "Population (2011)": "965,370",
+        "Area(km2)": "1,855",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Metropolitan"
+        ]
+      },
+      "Okhaldhunga": {
+        "Name": "Okhaldhunga",
+        "Nepali": "ओखलढुंगा जिल्ला",
+        "Headquarters": "Siddhicharan",
+        "Population (2011)": "147,984",
+        "Area(km2)": "1,074",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Panchthar": {
+        "Name": "Panchthar",
+        "Nepali": "पांचथर जिल्ला",
+        "Headquarters": "Phidim",
+        "Population (2011)": "191,817",
+        "Area(km2)": "1,241",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Sankhuwasabha": {
+        "Name": "Sankhuwasabha",
+        "Nepali": "संखुवासभा जिल्ला",
+        "Headquarters": "Khandbari",
+        "Population (2011)": "158,742",
+        "Area(km2)": "3,480",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Solukhumbu": {
+        "Name": "Solukhumbu",
+        "Nepali": "सोलुखुम्बू जिल्ला",
+        "Headquarters": "Salleri",
+        "Population (2011)": "105,886",
+        "Area(km2)": "3,312",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Sunsari": {
+        "Name": "Sunsari",
+        "Nepali": "सुनसरी जिल्ला",
+        "Headquarters": "Inaruwa",
+        "Population (2011)": "763,497",
+        "Area(km2)": "1,257",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Taplejung": {
+        "Name": "Taplejung",
+        "Nepali": "ताप्लेजुंग जिल्ला",
+        "Headquarters": "Taplejung",
+        "Population (2011)": "127,461",
+        "Area(km2)": "3,646",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Terhathum": {
+        "Name": "Terhathum",
+        "Nepali": "तेह्रथुम जिल्ला",
+        "Headquarters": "Myanglung",
+        "Population (2011)": "113,111",
+        "Area(km2)": "0,679",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Udayapur": {
+        "Name": "Udayapur",
+        "Nepali": "उदयपुर जिल्ला",
+        "Headquarters": "Gaighat",
+        "Population (2011)": "317,532",
+        "Area(km2)": "2,063",
+        "Province": "Province No. 1",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Saptari": {
+        "Name": "Saptari",
+        "Nepali": "सप्तरी जिल्ला",
+        "Headquarters": "Rajbiraj",
+        "Population (2011)": "639,284",
+        "Area(km2)": "1,363",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Parsa": {
+        "Name": "Parsa",
+        "Nepali": "पर्सा जिल्ला",
+        "Headquarters": "Birgunj",
+        "Population (2011)": "601,017",
+        "Area(km2)": "1,353",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Metropolitan"
+        ]
+      },
+      "Sarlahi": {
+        "Name": "Sarlahi",
+        "Nepali": "सर्लाही जिल्ला",
+        "Headquarters": "Malangwa",
+        "Population (2011)": "769,729",
+        "Area(km2)": "1,259",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Bara": {
+        "Name": "Bara",
+        "Nepali": "बारा जिल्ला",
+        "Headquarters": "Kalaiya",
+        "Population (2011)": "687,708",
+        "Area(km2)": "1,190",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Siraha": {
+        "Name": "Siraha",
+        "Nepali": "सिराहा जिल्ला",
+        "Headquarters": "Siraha",
+        "Population (2011)": "637,328",
+        "Area(km2)": "1,188",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Dhanusha": {
+        "Name": "Dhanusha",
+        "Nepali": "धनुषा जिल्ला",
+        "Headquarters": "Janakpur",
+        "Population (2011)": "754,777",
+        "Area(km2)": "1,180",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Rautahat": {
+        "Name": "Rautahat",
+        "Nepali": "रौतहट जिल्ला",
+        "Headquarters": "Gaur",
+        "Population (2011)": "686,722",
+        "Area(km2)": "1,126",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Mahottari": {
+        "Name": "Mahottari",
+        "Nepali": "महोत्तरी जिल्ला",
+        "Headquarters": "Jaleshwar",
+        "Population (2011)": "627,580",
+        "Area(km2)": "1,002",
+        "Province": "Province No. 2",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Sindhuli": {
+        "Name": "Sindhuli",
+        "Nepali": "सिन्धुली जिल्ला",
+        "Headquarters": "Kamalamai",
+        "Area(km2)": "2,491",
+        "Population (2011)": "296,192",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Ramechhap": {
+        "Name": "Ramechhap",
+        "Nepali": "रामेछाप जिल्ला",
+        "Headquarters": "Manthali",
+        "Area(km2)": "1,546",
+        "Population (2011)": "202,646",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Dolakha": {
+        "Name": "Dolakha",
+        "Nepali": "दोलखा जिल्ला",
+        "Headquarters": "Bhimeshwar",
+        "Area(km2)": "2,191",
+        "Population (2011)": "186,557",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Bhaktapur": {
+        "Name": "Bhaktapur",
+        "Nepali": "भक्तपुर जिल्ला",
+        "Headquarters": "Bhaktapur",
+        "Area(km2)": 119,
+        "Population (2011)": "304,651",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality"
+        ]
+      },
+      "Dhading": {
+        "Name": "Dhading",
+        "Nepali": "धादिङ जिल्ला",
+        "Headquarters": "Nilkantha",
+        "Area(km2)": "1,926",
+        "Population (2011)": "336,067",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Kathmandu": {
+        "Name": "Kathmandu",
+        "Nepali": "काठमाडौँ जिल्ला",
+        "Headquarters": "Kathmandu",
+        "Area(km2)": 395,
+        "Population (2011)": "1,744,240",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Metropolitan"
+        ]
+      },
+      "Kavrepalanchok": {
+        "Name": "Kavrepalanchok",
+        "Nepali": "काभ्रेपलान्चोक जिल्ला",
+        "Headquarters": "Dhulikhel",
+        "Area(km2)": "1,396",
+        "Population (2011)": "381,937",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Lalitpur": {
+        "Name": "Lalitpur",
+        "Nepali": "ललितपुर जिल्ला",
+        "Headquarters": "Lalitpur",
+        "Area(km2)": 385,
+        "Population (2011)": "468,132",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Metropolitan"
+        ]
+      },
+      "Nuwakot": {
+        "Name": "Nuwakot",
+        "Nepali": "नुवाकोट जिल्ला",
+        "Headquarters": "Bidur",
+        "Area(km2)": "1,121",
+        "Population (2011)": "277,471",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Rasuwa": {
+        "Name": "Rasuwa",
+        "Nepali": "रसुवा जिल्ला",
+        "Headquarters": "Dhunche",
+        "Area(km2)": "1,544",
+        "Population (2011)": "43,300",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Sindhupalchok": {
+        "Name": "Sindhupalchok",
+        "Nepali": "सिन्धुपाल्चोक जिल्ला",
+        "Headquarters": "Chautara",
+        "Area(km2)": "2,542",
+        "Population (2011)": "287,798",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Chitwan": {
+        "Name": "Chitwan",
+        "Nepali": "चितवन जिल्ला",
+        "Headquarters": "Bharatpur",
+        "Area(km2)": "2,218",
+        "Population (2011)": "579,984",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Metropolitan"
+        ]
+      },
+      "Makwanpur": {
+        "Name": "Makwanpur",
+        "Nepali": "मकवानपुर जिल्ला",
+        "Headquarters": "Hetauda",
+        "Area(km2)": "2,426",
+        "Population (2011)": "420,477",
+        "Province": "Province No. 3",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Baglung": {
+        "Name": "Baglung",
+        "Nepali": "बागलुङ जिल्ला",
+        "Headquarters": "Baglung",
+        "Area(km2)": "1,784",
+        "Population (2011)": "268,613",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Gorkha": {
+        "Name": "Gorkha",
+        "Nepali": "गोरखा जिल्ला",
+        "Headquarters": "Gorkha",
+        "Area(km2)": "3,610",
+        "Population (2011)": "271,061",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Kaski": {
+        "Name": "Kaski",
+        "Nepali": "कास्की जिल्ला",
+        "Headquarters": "Pokhara",
+        "Area(km2)": "2,017",
+        "Population (2011)": "492,098",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Metropolitan"
+        ]
+      },
+      "Lamjung": {
+        "Name": "Lamjung",
+        "Nepali": "लमजुङ जिल्ला",
+        "Headquarters": "Besisahar",
+        "Area(km2)": "1,692",
+        "Population (2011)": "167,724",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Manang": {
+        "Name": "Manang",
+        "Nepali": "मनाङ जिल्ला",
+        "Headquarters": "Chame",
+        "Area(km2)": "2,246",
+        "Population (2011)": "6,538",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Rular Municipality"
+        ]
+      },
+      "Mustang": {
+        "Name": "Mustang",
+        "Nepali": "मुस्ताङ जिल्ला",
+        "Headquarters": "Jomsom",
+        "Area(km2)": "3,573",
+        "Population (2011)": "13,452",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Rular Municipality"
+        ]
+      },
+      "Myagdi": {
+        "Name": "Myagdi",
+        "Nepali": "म्याग्दी जिल्ला",
+        "Headquarters": "Beni",
+        "Area(km2)": "2,297",
+        "Population (2011)": "113,641",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Nawalpur": {
+        "Name": "Nawalpur",
+        "Nepali": "नवलपुर जिल्ला",
+        "Headquarters": "Kawasoti",
+        "Area(km2)": "1,043.1",
+        "Population (2011)": "310,864",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Parbat": {
+        "Name": "Parbat",
+        "Nepali": "पर्वत जिल्ला",
+        "Headquarters": "Kusma",
+        "Area(km2)": 494,
+        "Population (2011)": "146,590",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Syangja": {
+        "Name": "Syangja",
+        "Nepali": "स्याङग्जा जिल्ला",
+        "Headquarters": "Putalibazar",
+        "Area(km2)": "1,164",
+        "Population (2011)": "289,148",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Tanahun": {
+        "Name": "Tanahun",
+        "Nepali": "तनहुँ जिल्ला",
+        "Headquarters": "Damauli",
+        "Area(km2)": "1,546",
+        "Population (2011)": "323,288",
+        "Province": "Gandaki",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Kapilvastu": {
+        "Name": "Kapilvastu",
+        "Nepali": "कपिलवस्तु जिल्ला",
+        "Headquarters": "Taulihawa",
+        "Area(km2)": "1,738",
+        "Population (2011)": "571,936",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Parasi": {
+        "Name": "Parasi",
+        "Nepali": "परासी जिल्ला",
+        "Headquarters": "Ramgram",
+        "Area(km2)": 634.88,
+        "Population (2011)": "321,058",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Rupandehi": {
+        "Name": "Rupandehi",
+        "Nepali": "रुपन्देही जिल्ला",
+        "Headquarters": "Siddharthanagar",
+        "Area(km2)": "1,360",
+        "Population (2011)": "880,196",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Arghakhanchi": {
+        "Name": "Arghakhanchi",
+        "Nepali": "अर्घाखाँची जिल्ला",
+        "Headquarters": "Sandhikharka",
+        "Area(km2)": "1,193",
+        "Population (2011)": "197,632",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Gulmi": {
+        "Name": "Gulmi",
+        "Nepali": "गुल्मी जिल्ला",
+        "Headquarters": "Tamghas",
+        "Area(km2)": "1,149",
+        "Population (2011)": "280,160",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Palpa": {
+        "Name": "Palpa",
+        "Nepali": "पाल्पा जिल्ला",
+        "Headquarters": "Tansen",
+        "Area(km2)": "1,373",
+        "Population (2011)": "261,180",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Dang": {
+        "Name": "Dang",
+        "Nepali": "दाङ जिल्ला",
+        "Headquarters": "Ghorahi",
+        "Area(km2)": "2,955",
+        "Population (2011)": "552,583",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Pyuthan": {
+        "Name": "Pyuthan",
+        "Nepali": "प्युठान जिल्ला",
+        "Headquarters": "Pyuthan",
+        "Area(km2)": "1,309",
+        "Population (2011)": "228,102",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Rolpa": {
+        "Name": "Rolpa",
+        "Nepali": "रोल्पा जिल्ला",
+        "Headquarters": "Liwang",
+        "Area(km2)": "1,879",
+        "Population (2011)": "224,506",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Eastern Rukum": {
+        "Name": "Eastern Rukum",
+        "Nepali": "पूर्वी रूकुम जिल्ला",
+        "Headquarters": "Rukumkot",
+        "Area(km2)": "1,161.13",
+        "Population (2011)": "53,018",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Banke": {
+        "Name": "Banke",
+        "Nepali": "बाँके जिल्ला",
+        "Headquarters": "Nepalganj",
+        "Area(km2)": "2,337",
+        "Population (2011)": "491,313",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Bardiya": {
+        "Name": "Bardiya",
+        "Nepali": "बर्दिया जिल्ला",
+        "Headquarters": "Gulariya",
+        "Area(km2)": "2,025",
+        "Population (2011)": "426,576",
+        "Province": "Province No. 5",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Western Rukum": {
+        "Name": "Western Rukum",
+        "Nepali": "पश्चिमी रूकुम जिल्ला",
+        "Headquarters": "Musikot",
+        "Area(km2)": "1,213.49",
+        "Population (2011)": "154,272",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Salyan": {
+        "Name": "Salyan",
+        "Nepali": "सल्यान जिल्ला",
+        "Headquarters": "Salyan",
+        "Area(km2)": "1,462",
+        "Population (2011)": "242,444",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Dolpa": {
+        "Name": "Dolpa",
+        "Nepali": "डोल्पा जिल्ला",
+        "Headquarters": "Dunai",
+        "Area(km2)": "7,889",
+        "Population (2011)": "36,700",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Humla": {
+        "Name": "Humla",
+        "Nepali": "हुम्ला जिल्ला",
+        "Headquarters": "Simikot",
+        "Area(km2)": "5,655",
+        "Population (2011)": "50,858",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Rular Municipality"
+        ]
+      },
+      "Jumla": {
+        "Name": "Jumla",
+        "Nepali": "जुम्ला जिल्ला",
+        "Headquarters": "Chandannath",
+        "Area(km2)": "2,531",
+        "Population (2011)": "108,921",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Kalikot": {
+        "Name": "Kalikot",
+        "Nepali": "कालिकोट जिल्ला",
+        "Headquarters": "Manma",
+        "Area(km2)": "1,741",
+        "Population (2011)": "136,948",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Mugu": {
+        "Name": "Mugu",
+        "Nepali": "मुगु जिल्ला",
+        "Headquarters": "Gamgadhi",
+        "Area(km2)": "3,535",
+        "Population (2011)": "55,286",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Surkhet": {
+        "Name": "Surkhet",
+        "Nepali": "सुर्खेत जिल्ला",
+        "Headquarters": "Birendranagar",
+        "Area(km2)": "2,451",
+        "Population (2011)": "350,804",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Dailekh": {
+        "Name": "Dailekh",
+        "Nepali": "दैलेख जिल्ला",
+        "Headquarters": "Narayan",
+        "Area(km2)": "1,502",
+        "Population (2011)": "261,770",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Jajarkot": {
+        "Name": "Jajarkot",
+        "Nepali": "जाजरकोट जिल्ला",
+        "Headquarters": "Khalanga",
+        "Area(km2)": "2,230",
+        "Population (2011)": "171,304",
+        "Province": "Karnali",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Kailali": {
+        "Name": "Kailali",
+        "Nepali": "कैलाली जिल्ला",
+        "Headquarters": "Dhangadhi",
+        "Area(km2)": "3,235",
+        "Population (2011)": "775,709",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality",
+          "Sub-Metropolitan"
+        ]
+      },
+      "Achham": {
+        "Name": "Achham",
+        "Nepali": "अछाम जिल्ला",
+        "Headquarters": "Mangalsen",
+        "Area(km2)": "1,680",
+        "Population (2011)": "257,477",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Doti": {
+        "Name": "Doti",
+        "Nepali": "डोटी जिल्ला",
+        "Headquarters": "Dipayal Silgadhi",
+        "Area(km2)": "2,025",
+        "Population (2011)": "211,746",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Bajhang": {
+        "Name": "Bajhang",
+        "Nepali": "बझाङ जिल्ला",
+        "Headquarters": "Jayaprithvi",
+        "Area(km2)": "3,422",
+        "Population (2011)": "195,159",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Bajura": {
+        "Name": "Bajura",
+        "Nepali": "बाजुरा जिल्ला",
+        "Headquarters": "Martadi",
+        "Area(km2)": "2,188",
+        "Population (2011)": "134,912",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Kanchanpur": {
+        "Name": "Kanchanpur",
+        "Nepali": "कंचनपुर जिल्ला",
+        "Headquarters": "Bhimdatta",
+        "Area(km2)": "1,610",
+        "Population (2011)": "451,248",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Dadeldhura": {
+        "Name": "Dadeldhura",
+        "Nepali": "डडेलधुरा जिल्ला",
+        "Headquarters": "Amargadhi",
+        "Area(km2)": "1,538",
+        "Population (2011)": "142,094",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Baitadi": {
+        "Name": "Baitadi",
+        "Nepali": "बैतडी जिल्ला",
+        "Headquarters": "Dasharathchand",
+        "Area(km2)": "1,519",
+        "Population (2011)": "250,898",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      },
+      "Darchula": {
+        "Name": "Darchula",
+        "Nepali": "दार्चुला जिल्ला",
+        "Headquarters": "Darchula",
+        "Area(km2)": "2,322",
+        "Population (2011)": "133,274",
+        "Province": "SudurPaschim",
+        "LocalBodiesType": [
+          "Municipality",
+          "Rular Municipality"
+        ]
+      }
+    }
+  }
+}
